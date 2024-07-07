@@ -1,4 +1,4 @@
-![image](https://github.com/Mustafa-Shoukat1/-_-_BiLSTM_RNN_Emoation_Analysis/assets/162743520/04d436c9-780c-499a-9265-62dd7e177cb5)
+![Understanding Social Media Emotions through Tweet Data](https://github.com/Mustafa-Shoukat1/-_-_BiLSTM_RNN_Emoation_Analysis/assets/162743520/04d436c9-780c-499a-9265-62dd7e177cb5)
 
 
 <div style="position: relative; text-align: center; background-image: url('https://th.bing.com/th/id/OIP.FhY2jL9E3OtyWAmmT_fFaAHaDt?w=341&h=175&c=7&r=0&o=5&dpr=1.5&pid=1.7'); background-size: cover; background-position: center; border-radius: 20px; border: 2px solid #64B5F6; padding: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
