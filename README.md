@@ -1,3 +1,4 @@
+# Exploring Emotional Expressions in Tweets Using NLP Techniques 
 ![Understanding Social Media Emotions through Tweet Data](https://github.com/Mustafa-Shoukat1/-_-_BiLSTM_RNN_Emoation_Analysis/assets/162743520/04d436c9-780c-499a-9265-62dd7e177cb5)
 
 
